@@ -91,3 +91,6 @@ body {
   font-style: normal;
   font-weight: 500;
 }
+.footer-text {
+  text-decoration: line-through;
+}
